@@ -6,3 +6,8 @@ Having new feature are causing confusion to customer for purchase
 @As per industry standard all cars having some issue
 @please review the changes again and send those review changes in pdf 
 @old features also must be review in order to satisfy the customer(Please note it)
+
+#Please also check for old cars for scrapping as some of the cars not loved by customers
+#Please update the changes made in new cars 
+#If you have query drop email to me 
+
