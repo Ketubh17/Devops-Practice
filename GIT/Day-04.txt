@@ -1,2 +1,8 @@
+<<<<<<< HEAD
 This is sample file for new branch in git 
 We are creating new file and pushing new file to new branch
+=======
+This is new file
+My name is kartk Thakre
+>>>>>>> Newb
+
